@@ -34,6 +34,14 @@ Die folgenden Notebooks sind enthalten:
 ## 📂 Datenquelle
 Die bereitgestellten Beispiel-Datensätze im Ordner `data/` stammen aus öffentlich zugänglichen Quellen oder wurden synthetisch erzeugt.
 
+## 📦 Hinweis zu OSMnx
+Dieses Projekt verwendet **OSMnx 2.0.2**, ein leistungsstarkes Python-Paket zum einfachen Herunterladen, Modellieren, Analysieren und Visualisieren von Straßennetzen und anderen Geodaten aus OpenStreetMap. Mit wenigen Zeilen Code lassen sich Geh-, Fahr- oder Radwegenetze erstellen, analysieren und visualisieren. 
+
+➡️ Weitere Informationen: [OSMnx GitHub](https://github.com/gboeing/osmnx)  
+➡️ Migration Guide zu OSMnx 2.0: [Hier lesen](https://github.com/gboeing/osmnx/blob/main/MIGRATING.md)
+
+> Boeing, G. (2024). *Modeling and Analyzing Urban Networks and Amenities with OSMnx*. Working paper. https://geoffboeing.com/publications/osmnx-paper/
+
 ## 📜 Lizenz
 Dieses Projekt steht unter der **Apache 2.0 Lizenz** – siehe die Datei [LICENSE](LICENSE) für Details.
 
@@ -84,6 +92,14 @@ The following notebooks are included:
 
 ## 📂 **Data Sources**
 The sample datasets provided in the `data/` folder come from publicly available sources or have been synthetically generated.
+
+## 🌐 OSMnx Note
+This project uses **OSMnx 2.0.2**, a powerful Python package for downloading, modeling, analyzing, and visualizing street networks and other geospatial data from OpenStreetMap. With just a few lines of code, you can create, analyze, and visualize walking, driving, or biking networks.
+
+➡️ More info: [OSMnx GitHub](https://github.com/gboeing/osmnx)  
+➡️ Migration guide for version 2.0: [Read here](https://github.com/gboeing/osmnx/blob/main/MIGRATING.md)
+
+> Boeing, G. (2024). *Modeling and Analyzing Urban Networks and Amenities with OSMnx*. Working paper. https://geoffboeing.com/publications/osmnx-paper/
 
 ## 📜 **License**
 This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.
