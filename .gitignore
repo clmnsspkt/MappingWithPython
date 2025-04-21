@@ -16,3 +16,5 @@ data/plot_data/gis_osm_water_a_free_1.shx
 data/plot_data/osm_landuse.geojson
 notebooks/.ipynb_checkpoints/01_single_track_running-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/01_single_track-checkpoint.ipynb
+data/.DS_Store
+data/.DS_Store
