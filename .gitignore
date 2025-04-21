@@ -2,3 +2,7 @@
 /notebooks/cache
 /data/gpx
 notebooks/.DS_Store
+data/plot_data/osm_landuse_extract.geojson
+data/plot_data/osm_landuse_extract.qmd
+data/plot_data/osm_landuse.geojson
+data/plot_data/osm_landuse_th.qmd
