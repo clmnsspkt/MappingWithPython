@@ -5,3 +5,4 @@ notebooks/.DS_Store
 data/plot_data/osm_landuse_th.qmd
 data/plot_data/osm_landuse_extract.qmd
 notebooks/.ipynb_checkpoints/01_single_track_running-checkpoint.ipynb
+data/sample_gpx/.DS_Store
